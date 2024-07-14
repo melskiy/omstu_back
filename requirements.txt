@@ -1,0 +1,14 @@
+sqlalchemy
+pydantic
+fastapi
+uvicorn
+pydantic-settings
+pandas
+psycopg2
+asyncpg
+numpy
+scikit-learn
+python-dateutil
+pyod
+suod
+
